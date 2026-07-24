@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>曲①</title>
+
+    <style>
+        body{
+            font-family: sans-serif;
+            background:#f7f7f7;
+            margin:0;
+            padding:30px;
+            text-align:center;
+        }
+
+        h1{
+            font-size:32px;
+        }
+
+        iframe{
+            width:100%;
+            max-width:560px;
+            aspect-ratio:16/9;
+            border:none;
+            border-radius:12px;
+        }
+
+        .text{
+            max-width:700px;
+            margin:30px auto;
+            font-size:18px;
+            line-height:1.8;
+            text-align:left;
+        }
+
+        a{
+            display:inline-block;
+            margin-top:30px;
+            padding:12px 24px;
+            background:#333;
+            color:white;
+            text-decoration:none;
+            border-radius:8px;
+        }
+    </style>
+
+</head>
+<body>
+
+<h1>曲①　好きすぎて滅！</h1>
+
+<iframe
+src="https://youtu.be/ZVUxJsPfoX8?si=a8iFfOd8VCJHzeYa"
+allowfullscreen>
+</iframe>
+
+<div class="text">
+
+5人組ダンスボーカルグループ「M!LK」の楽曲。<br>
+SNSを中心に「マジ ぎゅんぎゅんぎゅん」という<br>
+中毒性のあるフレーズとダンスが大バズりした、<br>
+超ポップで強烈なラブソングです。<br>
+実はこの曲、新郎・大貴の勤め先のグループ会社（ビクターエンタテインメント）<br>
+のレーベルからリリースされている楽曲です！<br>
+身近なヒット曲ということで、今回のクイズのラインナップに堂々選出されました。<br>
+
+</div>
+
+<a href="index.html">TOPへ戻る</a>
+
+</body>
+</html>
